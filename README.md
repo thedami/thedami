@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dami
-- 👀 I’m interested in Fintechs as well as Data Science 
-- 🌱 I’m currently a student, gaduating July,2022
+- 👀 I’m interested in Software Development as well as Data Science 
+- 🌱 I’m currently working as a software developer, while searching for grad school opportunities.
 - 💞️ I’m looking to collaborate on different ideas 
 
 <!---
